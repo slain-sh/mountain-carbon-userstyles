@@ -9,8 +9,8 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Ahome-manager-options-search"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/home-manager-options-search?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/home-manager-options-search/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-cba6f7?colorA=363a4f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/userstyles/issues?q=is%3Aissue+is%3Aopen+label%3Ahome-manager-options-search"><img src="https://img.shields.io/github/issues/catppuccin/userstyles/home-manager-options-search?colorA=21272a&colorB=fe832b&style=for-the-badge"></a>
+	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/home-manager-options-search/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-8f8aac?colorA=21272a&style=for-the-badge"></a>
 </p>
 
 ## Usage
