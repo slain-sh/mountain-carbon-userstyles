@@ -4,7 +4,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin for <a href="https://web.snapchat.com">Snapchat Web</a>
+  Mountain Carbon for <a href="https://web.snapchat.com">Snapchat Web</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/snapchat-web/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-8f8aac?colorA=21272a&style=for-the-badge"></a>
 </p>
 
-## Usage
-
-See [the userstyle usage instructions](https://userstyles.catppuccin.com/getting-started/usage/).
 
 
 ## 💝 Current Maintainer

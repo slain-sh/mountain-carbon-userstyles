@@ -4,7 +4,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin for <a href="https://nixos.org/manual/nixos">NixOS Manual</a>, <a href="https://nixos.org/manual/nixpkgs">Nixpkgs Manual</a>
+  Mountain Carbon for <a href="https://nixos.org/manual/nixos">NixOS Manual</a>, <a href="https://nixos.org/manual/nixpkgs">Nixpkgs Manual</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -13,9 +13,6 @@
 	<a href="https://raw.githubusercontent.com/catppuccin/userstyles/main/styles/nixos-manual/catppuccin.user.less"><img src="https://img.shields.io/badge/stylus-install-8f8aac?colorA=21272a&style=for-the-badge"></a>
 </p>
 
-## Usage
-
-> [!IMPORTANT]
 > This userstyle also applies to [Nixpkgs Manual](https://nixos.org/manual/nixpkgs).
 
 See [the userstyle usage instructions](https://userstyles.catppuccin.com/getting-started/usage/).

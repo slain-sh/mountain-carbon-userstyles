@@ -1,8 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-  Catppuccin Userstyles
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+Mountain Carbon Userstyles
 </h3>
 
 <p align="center">
@@ -13,16 +10,6 @@
 </p>
 
 <p align="center">
-A curated collection of soothing pastel themes for your favorite websites and web applications.
-</p>
-
-<p align="center">
-<img src="docs/src/assets/preview.webp"/>
-</p>
-
-<p align="center">
-Visit <a href="https://userstyles.catppuccin.com">userstyles.catppuccin.com</a> to get started.
-</p>
 
 &nbsp;
 
